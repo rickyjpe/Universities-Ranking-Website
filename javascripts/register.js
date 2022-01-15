@@ -38,5 +38,5 @@ function register() {
 
     localStorage.setItem('user', user);
     alert('REGISTRATION COMPLETE.');
-    window.location.replace('home.html');
+    window.location.replace('index.html');
 }
